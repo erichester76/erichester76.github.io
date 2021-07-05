@@ -4,7 +4,9 @@ description: >- # this means to ignore newlines until "baseurl:"
  get under the umbrella!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.umbrella.tech" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: umbrellatg
+
 social_links:
   twitter: umbrellatg 
   facebook: umbrellatechgroup
@@ -19,7 +21,6 @@ social_links:
   # googleplus: +jekyll
   # microdotblog: jekyll
   # keybase: jekyll
-  #
 header_pages:
  - services.md
  - about.md
@@ -30,4 +31,3 @@ header_pages:
 theme: minima 
 plugins:
   - jekyll-feed
-
