@@ -1,28 +1,28 @@
 title: umbrella technology group
 email: info@umbrella.tech
 description: >- # this means to ignore newlines until "baseurl:"
-        get under the umbrella!
+get under the umbrella!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.umbrella.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: umbrellatg
-  social_links:
-     twitter: umbrellatg 
-     # github:  jekyll
-     # devto: jekyll
-     # dribbble: jekyll
-     facebook: umbrellatechgroup
-     # flickr:   jekyll
-     # instagram: jekyll
-     linkedin: umbrella-tech 
-     # pinterest: jekyll
-     youtube: umbrellatech
-     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-     # youtube_channel_name: CloudCannon
-     # telegram: jekyll
-     # googleplus: +jekyll
-     # microdotblog: jekyll
-     # keybase: jekyll
-
+social_links:
+  twitter: umbrellatg 
+  # github:  jekyll
+  # devto: jekyll
+  # dribbble: jekyll
+  facebook: umbrellatechgroup
+  # flickr:   jekyll
+  # instagram: jekyll
+  linkedin: umbrella-tech 
+  # pinterest: jekyll
+  youtube: umbrellatech
+  # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+  # youtube_channel_name: CloudCannon
+  # telegram: jekyll
+  # googleplus: +jekyll
+  # microdotblog: jekyll
+  # keybase: jekyll
+  #
 header_pages:
  - services.md
  - about.md
