@@ -25,6 +25,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.umbrella.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: umbrellatg
+#header_pages:
+ - services.md
+ - about.md
+ - contact.md
+ - blog.md
 
 # Build settings
 theme: minima
