@@ -1,7 +1,7 @@
 title: umbrella technology group
 email: info@umbrella.tech
 description: >- # this means to ignore newlines until "baseurl:"
- 864-952-4101 :: info@umbrella.tech :: Get under the umbrella!
+ 864-952-4101 :: info@umbrella.tech 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.umbrella.tech" # the base hostname & protocol for your site, e.g. http://example.com
 
