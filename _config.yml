@@ -30,7 +30,7 @@ header_pages:
  - blog.md
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
 #  - jekyll-feed
 
