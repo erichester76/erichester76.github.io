@@ -7,17 +7,14 @@ url: "https://www.umbrella.tech" # the base hostname & protocol for your site, e
 twitter_username: umbrellatg
 social_links:
   twitter: umbrellatg 
-  # github:  jekyll
-  # devto: jekyll
-  # dribbble: jekyll
   facebook: umbrellatechgroup
-  # flickr:   jekyll
-  # instagram: jekyll
   linkedin: umbrella-tech 
-  # pinterest: jekyll
   youtube: umbrellatech
   # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
   # youtube_channel_name: CloudCannon
+  # flickr:   jekyll
+  # instagram: jekyll
+  # pinterest: jekyll
   # telegram: jekyll
   # googleplus: +jekyll
   # microdotblog: jekyll
@@ -32,5 +29,5 @@ header_pages:
 # Build settings
 theme: jekyll-theme-cayman
 plugins:
-#  - jekyll-feed
+  - jekyll-feed
 
