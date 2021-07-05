@@ -27,7 +27,7 @@ url: "https://umbrella.tech" # the base hostname & protocol for your site, e.g. 
 twitter_username: umbrellatg
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
