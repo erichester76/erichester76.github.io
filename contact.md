@@ -4,4 +4,3 @@ title: Contact Us
 permalink: /contact/
 ---
 
-Contact Us
