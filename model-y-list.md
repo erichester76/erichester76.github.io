@@ -1,4 +1,4 @@
-Tesla Model Y Accessory Recommendations
+Tesla Model Y Accessory Must Have List
 
 Interior
 
